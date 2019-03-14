@@ -7,4 +7,4 @@ For the before and after table results find the files that have Table3 in their 
 
 The files are saved in 3 branches (RnD, patents, product_char) for each corresponding analysis from the paper.
 
-questions: contact the corresponding author on the paper
+Any questions: contact the corresponding author on the paper
